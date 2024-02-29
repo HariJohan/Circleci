@@ -1,6 +1,6 @@
 # Python program to swap two variables
 x = 5
-y = 10
+y = 11
 temp = x
 x = y
 y = temp
